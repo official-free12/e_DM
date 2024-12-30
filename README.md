@@ -1,0 +1,6 @@
+# example.com/fil/eth/btc/分币系统/集群/ipfs云算力/filcoin云算力
+
+example.com.可以按照客户需求随意二开.（以上价格为源码价格,有需要二次开发的朋友也可以提供需求,example.com）<br>example.com/fil/eth/btc/分币系统/集群/ipfs云算力/filcoin云算力<br>1、FIL总额 当天的产币数量  可用部分（自行设置） 锁仓释放 （75%180天释放） 这两个比例以及锁仓释放部分的平均释放天数后台可以设置比例参数；<br>2、直推奖励，根据购买币种不同，而不同；<br>3、有效算力 封装完成算力 有效算力封装进度 有进度条 上架运行时间 报废下架时间 今日封装 单T收益 算力奖励 奖励记录 列表显示购买的类型 运行周期 收益日志 托管技术服务费（前端显示比例，后台可以设置比例参数，这个是在产币的时候乘以这个比例后给到用户的）；<br>4、根据区块浏览器的实时产币信息，后台填写每T的产币量，用于结算；<br>5、独立钱包系统；<br>6、每日产出根据全网平均值，产出来的币平台可自定义设定比例分成，比如XCH、FIL、example.com；<br>7、每日按分币分配规则计算、币发放、与币明细数据记录。用户、时间、总数、产出发放、往日线性发放数、分币分配数；<br>8、后台添加；<br>懂的老板请自动看图....<br>演示:<br>前端<br>http://example.com/h5<br>13800000000<br>123456<br>后台<br>http://example.com/example.com<br>admin<br>123456<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/VCgbI" style="color: red;">https://mega-file.org/VCgbI</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
